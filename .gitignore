@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Test files
+tests/
+
